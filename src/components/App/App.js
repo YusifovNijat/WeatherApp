@@ -13,9 +13,6 @@ import SearchBar from '../search-bar/search-bar';
 import MainInfo from '../main-info/main-info';
 import FeaturesContainer from '../features-container/features-container';
 
-
-console.log(process.env);
-
 function App() {
 
   const [data, setData] = useState({});
