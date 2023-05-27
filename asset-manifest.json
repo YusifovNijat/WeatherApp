@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/weatherapp/static/css/main.f3bd836b.css",
-    "main.js": "/weatherapp/static/js/main.dcd9c91c.js",
-    "static/media/opensky.jpg": "/weatherapp/static/media/opensky.2869aa9b0b1493822b16.jpg",
-    "static/media/sunset.jpg": "/weatherapp/static/media/sunset.9b52440764b6f2af3177.jpg",
-    "static/media/night.jpg": "/weatherapp/static/media/night.73c48397813bd580574e.jpg",
-    "static/media/sunrise.jpg": "/weatherapp/static/media/sunrise.8e9d82beb5dd32c0a8b6.jpg",
-    "index.html": "/weatherapp/index.html",
-    "main.f3bd836b.css.map": "/weatherapp/static/css/main.f3bd836b.css.map",
-    "main.dcd9c91c.js.map": "/weatherapp/static/js/main.dcd9c91c.js.map"
+    "main.css": "/WeatherApp/static/css/main.130507b7.css",
+    "main.js": "/WeatherApp/static/js/main.4c8bb0ef.js",
+    "static/media/opensky.jpg": "/WeatherApp/static/media/opensky.2869aa9b0b1493822b16.jpg",
+    "static/media/sunset.jpg": "/WeatherApp/static/media/sunset.9b52440764b6f2af3177.jpg",
+    "static/media/night.jpg": "/WeatherApp/static/media/night.73c48397813bd580574e.jpg",
+    "static/media/sunrise.jpg": "/WeatherApp/static/media/sunrise.8e9d82beb5dd32c0a8b6.jpg",
+    "index.html": "/WeatherApp/index.html",
+    "main.130507b7.css.map": "/WeatherApp/static/css/main.130507b7.css.map",
+    "main.4c8bb0ef.js.map": "/WeatherApp/static/js/main.4c8bb0ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3bd836b.css",
-    "static/js/main.dcd9c91c.js"
+    "static/css/main.130507b7.css",
+    "static/js/main.4c8bb0ef.js"
   ]
 }
